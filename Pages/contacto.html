@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulariost</title>
+    <link rel="stylesheet" href="../CSS/contacto.css">
+    <link rel="icon" href="../iconos/login_24dp_000000_FILL0_wght400_GRAD0_opsz24.png" type="image/png">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+
+        <div class="navbar-contenedor contenedor">
+
+        <h1 class="logo">LOGO</h1>
+
+        <input type="checkbox" id="menu-toggle">
+
+        <label for="menu-toggle" class="lineas-hamburguesa">
+            <span class="linea linea1"id="linea1"></span>
+            <span class="linea linea2"id="linea2"></span>
+            <span class="linea linea3"id="linea3"></span>
+        </label>
+
+            <ul class="menu-items">
+                <li> <a href="../index.html">Pagina de inicio</a></li>
+                <li> <a href="Productos.html">Productos</a></li>
+                <li> <a href="contacto.html">contacto</a></li>
+                <li> <a href="Carrito.html">Carrito de compras</a></li>      
+            </ul>
+        </div> <!--navbar-contenedor-->
+        </nav>
+    </header>
+
+    <div class="contact-form">
+
+    <h2 class="heading">Contactános</h2>
+    <form action="https://formspree.io/f/myzyjagz" method="post">
+    <label for="name">Nombre:</label>
+    <input type="text" required>
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" required placeholder="tu@email">
+
+    <label for="mensaje">Mensaje</label>
+    <textarea name="mensaje" id="mensaje" rows="5" required placeholder="Escribe tu mensaje"></textarea>
+    <button type="submit">Enviar</button>
+    </form>
+    </div>
+</body>
+</html>
