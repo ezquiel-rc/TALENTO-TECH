@@ -60,7 +60,7 @@ background-image: linear-gradient(0deg, #e5e5f2 0%, #e4f0f0 100%);
     padding: 20px 40px 30px 20px;
     border-radius: 10px;
     max-width: 600px;
-    margin: 10px auto;
+    margin: 50px auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -230,6 +230,7 @@ background-image: linear-gradient(0deg, #e5e5f2 0%, #e4f0f0 100%);
         padding-right: 40px;
         padding-left: 25px;
         transition: transform 0.5s ease ease-in-out;
+        z-index: 1;
     }
 
     .navbar .menu-items li{
@@ -238,7 +239,7 @@ background-image: linear-gradient(0deg, #e5e5f2 0%, #e4f0f0 100%);
 
     .contact-form{
         padding: 10px 30px 30px 10px;
-        margin: 0 20px;
+        margin: 30px 20px;
     }
 
     .contact-form .heading{
