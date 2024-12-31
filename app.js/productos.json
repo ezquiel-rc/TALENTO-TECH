@@ -1,0 +1,431 @@
+[
+    {
+    "nombre_seccion": "abrasivos",
+    "productos": [
+        {"id": 1,
+        "nombre": "disco de corte diamantado" ,
+        "precio": 11.00 ,
+        "stock": 10 
+        } ,
+
+        {
+        "id":2 ,
+        "nombre": "disco de corte recto" ,
+        "precio": 9.00 ,
+        "stock": 10
+        } ,
+
+        {
+            "id":3 ,
+            "nombre": "disco de corte" ,
+            "precio":9.00 ,
+            "stock": 10
+        } ,
+
+        {
+            "id":4 ,
+            "nombre": "lija al agua" ,
+            "precio": 2.00 ,
+            "stock":10
+        } ,
+
+        {
+        "id":5 ,
+        "nombre": "lija para pared/madera",
+        "precio": 2.00 , 
+        "stock":10
+        } 
+        ]   
+        },
+
+        {
+            "nombre_seccion": "iluminacion" ,
+            "productos":[{
+                "id":1,
+                "nombre": "faro reflector led",
+                "precio": 25.00,
+                "stock": 5
+            },
+
+            {
+            "id":2,
+            "nombre": "jabalina de exterior" ,
+            "precio": 19.00,
+            "stock": 6
+            } ,
+
+            {
+                "id": 3,
+                "nombre":"lampara de escritorio" ,
+                "precio": 15.00 ,
+                "stock": 3
+            },
+
+            {
+                "id": 4,
+                "nombre": "reflector led" ,
+                "precio": 17.00,
+                "stock": 7
+            },
+
+            {
+                "id":5,
+                "nombre": "tira led",
+                "precio": 5.00,
+                "stock": 9
+            }
+        ]
+        },
+
+        {
+            "nombre_seccion":"herramientas electricas" ,
+            "productos":[{
+                "id":1,
+                "nombre":"amoladora",
+                "precio":130,
+                "stock":10
+            },
+
+            {
+                "id":2,
+                "nombre":"caladora",
+                "precio":150,
+                "stock":10
+            },
+
+            {
+                "id":3,
+                "nombre":"lijadora orbital",
+                "precio":170,
+                "stock":7
+            },
+
+            {
+                "id":4,
+                "nombre":"maquina de agujerear",
+                "precio":170,
+                "stock":6
+            },
+
+            {
+                "id":5,
+                "nombre":"pistola de calor",
+                "precio": 130,
+                "stock":3
+            }
+        ]
+        },
+
+        {
+            "nombre_seccion": "construccion",
+            "productos":[{
+            "id":1,
+            "nombre":"bolsa de arena",
+            "precio":10.00,
+            "stock":10
+            },
+
+            {
+            "id":2,
+            "nombre":"cal hidratada",
+            "precio":9.00,
+            "stock":10
+            },
+
+            {
+            "id":3,
+            "nombre":"hormigonera",
+            "precio":110,
+            "stock":6
+            },
+
+            {
+                "id":4,
+                "nombre":"ladrillo" ,
+                "precio": 0.90,
+                "stock":10
+            },
+
+            {
+                "id":5,
+                "nombre":"bolsa de cemento",
+                "precio":10.00,
+                "stock":7
+            }
+        ]
+        },
+
+        {
+            "nombre_seccion":"pinturas",
+            "productos":[{
+            "id":1,
+            "nombre":"alba lux 2 en 1",
+            "precio":33.00,
+            "stock":10
+            },
+
+            {
+            "id":2,
+            "nombre":"pintura mate pizarron",
+            "precio":30.00,
+            "stock":10
+            },
+
+            {
+                "id":3,
+                "nombre":"sintetico brillante",
+                "precio":35.00,
+                "stock":10
+            },
+
+            {
+                "id":4,
+                "nombre":"sintetico alta temperatura",
+                "precio":35.00,
+                "stock":10
+            },
+
+            {
+                "id":5,
+                "nombre":"sintetico pisos",
+                "precio":32.00,
+                "stock":10
+            }
+            ]
+            },
+
+            {
+                "nombre_seccion":"tornillos",
+                "productos":[{
+                "id":1,
+                "nombre":"tornillo autoperforante",
+                "precio":0.50,
+                "stock":20
+                },
+
+                {
+                    "id":2,
+                    "nombre":"tornillo funcion bloqueo",
+                    "precio":0.70,
+                    "stock":20
+                },
+
+                {
+                    "id":3,
+                    "nombre":"tornillo cabeza plana",
+                    "precio":0.50,
+                    "stock":20
+                },
+
+                {
+                    "id":4,
+                    "nombre":"tornillo allen",
+                    "precio":1.00,
+                    "stock":20
+                },
+
+                {
+                    "id":5,
+                    "nombre":"tornillo para madera",
+                    "precio":1.00,
+                    "stock":20
+                }
+                ]
+            },
+
+            {
+                "nombre_seccion": "tuberias pvc",
+                "productos":[{
+                "id":1,
+                "nombre":"pvc flexible transparente",
+                "precio": 9.00,
+                "stock":10
+                },
+
+                {
+                    "id":2,
+                    "nombre":"tubo cloacal",
+                    "precio":9.00,
+                    "stock":10
+                },
+
+                {
+                    "id":3,
+                    "nombre":"tubo sanitario",
+                    "precio":9.00,
+                    "stock":10
+                },
+
+                {
+                    "id":4,
+                    "nombre":"tubo pvc",
+                    "precio":2.00,
+                    "stock":10
+                },
+
+                {
+                    "id":5,
+                    "nombre":"tubo para agua sin rosca",
+                    "precio":2.00,
+                    "stock":10
+                }
+                ]
+                },
+
+                {
+                    "nombre_seccion":"decoracion",
+                    "productos":[{
+                    "id":1,
+                    "nombre":"arbol de navidad",
+                    "precio":7.00,
+                    "stock":5
+                    },
+
+                    {
+                        "id":2,
+                        "nombre":"bolas de navidad",
+                        "precio":1.00,
+                        "stock":15
+                    },
+
+                    {
+                        "id":3,
+                        "nombre":"guirnalda",
+                        "precio":2.00,
+                        "stock":10
+                    },
+
+                    {
+                        "id":4,
+                        "nombre":"luces de navidad",
+                        "precio":3.00,
+                        "stock":10
+                    },
+
+                    {
+                        "id":5,
+                        "nombre":"medias de navidad",
+                        "precio":10.00,
+                        "stock":15
+                    }
+                    ]
+                    },
+
+                    {
+                        "nombre_seccion":"electrodomesticos",
+                        "productos":[{
+                        "id":1,
+                        "nombre":"batidora",
+                        "precio":10.00,
+                        "stock":15
+                        },
+
+                        {
+                            "id":2,
+                            "nombre":"heladera",
+                            "precio":400,
+                            "stock":7
+                        },
+
+                        {
+                            "id":3,
+                            "nombre":"lavarropa",
+                            "precio":410,
+                            "stock":9
+                        },
+
+                        {
+                            "id":4,
+                            "nombre":"licuadora",
+                            "precio":37.00,
+                            "stock":9
+                        },
+
+                        {
+                            "id":5,
+                            "nombre":"microondas",
+                            "precio":80,
+                            "stock":9
+                        }
+                        ]
+                        },
+
+                        {
+                            "nombre_seccion":"jardineria",
+                            "productos":[{
+                            "id":1,
+                            "nombre":"barrehojas",
+                            "precio":6.50,
+                            "stock":15
+                            },
+
+                            {
+                            "id":2,
+                            "nombre":"bolsa de tierra",
+                            "precio":9.00,
+                            "stock":10
+                            },
+
+                            {
+                            "id":3,
+                            "nombre":"bordeadora",
+                            "precio":170,
+                            "stock":4
+                            },
+
+                            {
+                            "id":4,
+                            "nombre":"Lo que imaginaba...una Yard King",
+                            "precio":30.00,
+                            "stock":9
+                            },
+
+                            {
+                            "id":5,
+                            "nombre":"palita de jardineria",
+                            "precio":7.00,
+                            "stock":7
+                            }
+                            ]
+                            },
+
+                            {
+                            "nombre_seccion":"herramientas",
+                            "productos":[{
+                            "id":1,
+                            "nombre":"llave combinada",
+                            "precio":5.00,
+                            "stock":13
+                            },
+
+                            {
+                            "id":2,
+                            "nombre":"llave inglesa",
+                            "precio":5.00,
+                            "stock":4
+                            },
+
+                            {
+                            "id":3,
+                            "nombre":"llave stilson",
+                            "precio":11.00,
+                            "stock":4
+                            },
+
+                            {
+                            "id":4,
+                            "nombre":"pinza punta chata",
+                            "precio":5.00,
+                            "stock":4
+                            },
+
+                {
+                "id":5,
+                "nombre":"pinza universal",
+                "precio":5.00,
+                "stock":4
+                }
+                ]
+                }
+
+        ]
